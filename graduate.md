@@ -25,3 +25,5 @@
 Courses are offered at specific times each semester either in person or online over Zoom.
 
 Courses without a parenthetical use evolving technologies and differ by semester.
+
+Please email [jonathanlee@nmhu.edu](mailto:jonathanlee@nmhu.edu) for information about class content.
