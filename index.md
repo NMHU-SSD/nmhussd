@@ -1,4 +1,4 @@
-# Program Tiers
+## Program Tiers
 
 [Undergraduate](https://nmhu-ssd.github.io/undergraduate) | [Graduate](https://nmhu-ssd.github.io/graduate)
 
@@ -10,7 +10,6 @@
 - [Financial Aid Info](https://www.nmhu.edu/financial-aid/financial-aid-resources/)
 
 For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto:lajohnson@nmhu.edu)
-
 
 
 ## Courses
