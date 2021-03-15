@@ -3,18 +3,18 @@
 [Undergraduate](https://nmhu-ssd.github.io/undergraduate) | [Graduate](https://nmhu-ssd.github.io/graduate)
 
 
-# Apply/Transfer
+## Apply/Transfer
 
-To learn more about applying to NMHU, contact [Admissions](https://www.nmhu.edu/apply-to-new-mexico-highlands/)
-
-For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto:lajohnson@nmhu.edu)
-
+- [Apply Now](https://apply.nmhu.edu/apply/)
 - [Tuition and Fees](https://www.nmhu.edu/office-of-the-registrar/tuition-and-fees/)
 - [Financial Aid Info](https://www.nmhu.edu/financial-aid/financial-aid-resources/)
 
+For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto:lajohnson@nmhu.edu)
 
-# Courses
-## Fall 2021
+
+
+## Courses
+### Fall 2021
 - BSSD 3650/5650 Patterns & Pattern Languages TR 9:30-10:45
 - BSSD 4250/5250 Advanced Mobile Apps TR 11 - 12:15
 - BSSD 6000 Principles of Software Development TR 12:30 - 1:45
