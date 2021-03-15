@@ -1,44 +1,25 @@
-# Welcome to GitHub Pages
-
-
-
 # Apply/Transfer
 
 To learn more about applying to NMHU, contact [Admissions](https://www.nmhu.edu/apply-to-new-mexico-highlands/)
 For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto:lajohnson@nmhu.edu)
 
-[Tuition and Fees](https://www.nmhu.edu/office-of-the-registrar/tuition-and-fees/)
-[Financial Aid Info](https://www.nmhu.edu/financial-aid/financial-aid-resources/)
+- [Tuition and Fees](https://www.nmhu.edu/office-of-the-registrar/tuition-and-fees/)
+- [Financial Aid Info](https://www.nmhu.edu/financial-aid/financial-aid-resources/)
 
 
 # Courses
 ## Fall 2021
+- BSSD 3650/5650 Patterns & Pattern Languages TR 9:30-10:45
+- BSSD 4250/5250 Advanced Mobile Apps TR 11 - 12:15
+- BSSD 6000 Principles of Software Development TR 12:30 - 1:45
+- BSSD 3340/5340 Practicum I TR 2-3:45
+- BSSD 4350/5350 ST: Data Visualization MW 12:30-1:45
+- BSSD 4470/5570 Ambient Computing MW 2-3:15
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NMHU-SSD/nmhussd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Spring 2021
+- BSSD 3520/5520 Javascript TR 9:30-10:45
+- BSSD 3850/5350 ST Data Modeling TR 11 - 12:15
+- BSSD 4340/5340 Practicum II TR 12:30 - 1:45
+- BSSD 3700/5700 Interfaces MW 12:30-1:45
+- MART 4560 Physical Computing MW 2-3:50
+- BSSD 6970 Field Project (for second year grad students only)
