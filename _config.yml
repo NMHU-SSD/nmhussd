@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
 title: Software Systems Design
 description: New Mexico Highlands University
-repository_url: https://github.com/NMHU-SSD/
+
+github:
+  repository_url: https://github.com/NMHU-SSD/
