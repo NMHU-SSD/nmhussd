@@ -8,8 +8,8 @@
 - BSSD 5340 Practicum I
 - BSSD 6340 Practicum II
 - BSSD 6970 Field Project
-- Required Elective Courses (choose 5 courses)
 
+### Required Elective Courses (choose 5 courses)
 - BSSD 5150 Game Development (Unity)
 - BSSD 5200 Mobile Applications (React Native/Node.js)
 - BSSD 5250 Advanced Mobile Applications (Android)
@@ -20,7 +20,7 @@
 - BSSD 5650 Patterns & Pattern Languages (C++/Java/Python)
 - BSSD 5700 Interfaces
 
-Program Total: 38 hours
+### Program Total: 38 hours
 
 Courses are offered at specific times each semester either in person or online over Zoom.
 
