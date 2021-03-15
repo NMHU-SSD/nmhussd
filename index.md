@@ -1,3 +1,10 @@
+# Program Tiers
+
+[undergraduate](https://nmhu-ssd.github.io/undergrad.md) | [graduate](https://nmhu-ssd.github.io/grad.md)
+
+Please email jonathanlee@nmhu.edu for information about class content.
+
+
 # Apply/Transfer
 
 To learn more about applying to NMHU, contact [Admissions](https://www.nmhu.edu/apply-to-new-mexico-highlands/)
