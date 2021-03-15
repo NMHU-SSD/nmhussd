@@ -1,6 +1,6 @@
 # Program Tiers
 
-[undergraduate](https://nmhu-ssd.github.io/undergrad.md) | [graduate](https://nmhu-ssd.github.io/grad.md)
+[undergraduate](https://nmhu-ssd.github.io/undergrad) | [graduate](https://nmhu-ssd.github.io/grad)
 
 Please email jonathanlee@nmhu.edu for information about class content.
 
