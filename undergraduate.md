@@ -37,13 +37,11 @@
 
 Courses are offered at specific times each semester either in person or online over Zoom.
 
-**Courses with asterisks are ONLY offered on main campus in Las Vegas, NM. All other courses are offered in both Las Vegas and Albuquerque, NM
-
 SSD courses without a parenthetical description use evolving technologies and content differs by semester.
 
-*Not all courses will be offered every semester. Many will be on a 3 semester rotation.
+* Not all courses will be offered every semester. Many will be on a 3 semester rotation.
+** Courses with asterisks are ONLY offered on main campus in Las Vegas, NM. All other courses are offered in both Las Vegas and Albuquerque, NM
 
-**Indicates a class on main campus only.
 
 Please email [jonathanlee@nmhu.edu](mailto:jonathanlee@nmhu.edu) for information about class content.
 
