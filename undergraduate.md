@@ -35,14 +35,14 @@
 - BSSD 4340 Practicum II
 - MART 4980 Professional Internship
 
-* Tier 4 can be completed concurrently with Tier 3.
+*Tier 4 can be completed concurrently with Tier 3.
 
 Courses are offered at specific times each semester either in person or online over Zoom.
 
 SSD courses without a parenthetical description use evolving technologies and content differs by semester.
 
-* Not all courses will be offered every semester. Many will be on a 3 semester rotation.
-** Courses with asterisks are ONLY offered on main campus in Las Vegas, NM. All other courses are offered in both Las Vegas and Albuquerque, NM
+*Not all courses will be offered every semester. Many will be on a 3 semester rotation.
+**Courses with asterisks are ONLY offered on main campus in Las Vegas, NM. All other courses are offered in both Las Vegas and Albuquerque, NM
 
 
 Please email [jonathanlee@nmhu.edu](mailto:jonathanlee@nmhu.edu) for information about class content.
