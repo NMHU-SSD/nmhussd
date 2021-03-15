@@ -1,7 +1,6 @@
 ## BSSD Undergraduate Program
 
 ### Tier 1:
-
 - CS 1440 Intro to Computer Science
 - CS 1450 Intro to Object-Oriented Programming
 - MART 2330 Imaging History and Production **
@@ -9,16 +8,12 @@
 - BSSD 3400 Programming & Logic (C/C++)
 - BSSD 3520 Javascript
 
-
 ### Tier 2:
-
 - BSSD 3310 Web Applications (PHP)
 - BSSD 3410 Applied Algorithms & Architecture
 - BSSD 4200 Mobile Applications (React Native/Node.js)
 
-
 ### Tier 3: (7 upper level electives)*
-
 - BSSD 3650 Patterns & Pattern Languages (C++/Java/Python)
 - BSSD 3700 Interfaces 
 - BSSD 4150 Game Development (Unity)
@@ -34,7 +29,6 @@
 - MART 4150 Design Projects for the Community**
 
 ### Tier 4: (Required for graduation)
-
 - BSSD 3340 Practicum
 - BSSD 4340 Practicum II
 - MART 4980 Professional Internship
@@ -49,3 +43,6 @@ SSD courses without a parenthetical description use evolving technologies and co
 *Not all courses will be offered every semester. Many will be on a 3 semester rotation.
 
 **Indicates a class on main campus only.
+
+Please email [jonathanlee@nmhu.edu](mailto:jonathanlee@nmhu.edu) for information about class content.
+
