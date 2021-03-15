@@ -20,7 +20,7 @@
 - BSSD 4250 Advanced Mobile Apps (Android)
 - BSSD 4300 Advanced Web Apps
 - BSSD 4470 Ambient Computing
-- MART 456 Physical Computing
+- MART 4560 Physical Computing
 - BSSD 3850 Data Modeling
 - BSSD 3820 Agile Project Management**
 - MART 3110 Graphics & Meaning**
@@ -32,7 +32,8 @@
 - BSSD 3340 Practicum
 - BSSD 4340 Practicum II
 - MART 4980 Professional Internship
-- Tier 4 can be completed concurrently with Tier 3.
+
+* Tier 4 can be completed concurrently with Tier 3.
 
 Courses are offered at specific times each semester either in person or online over Zoom.
 
