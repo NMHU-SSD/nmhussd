@@ -19,6 +19,7 @@ For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto
 - BSSD 3410/5410 Applied Algorithms & Architecture TR 12:30-1:45
 - BSSD 4340 Practicum II TR 2:00-3:15
 
+
 - BSSD 6970 Embedded Systems MW 11-12:15
 - BSSD 3520/5520 JavaScript MW 12:30-1:45
 
