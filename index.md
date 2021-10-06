@@ -13,10 +13,12 @@ For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto
 
 
 ## Courses
-### Fall 2021
-- BSSD 3650/5650 Patterns & Pattern Languages TR 9:30-10:45
-- BSSD 4250/5250 Advanced Mobile Apps TR 11 - 12:15
-- BSSD 6000 Principles of Software Development TR 12:30 - 1:45
-- BSSD 3340/5340 Practicum I TR 2-3:45
-- BSSD 4350/5350 ST: Data Visualization MW 12:30-1:45
-- BSSD 4470/5570 Ambient Computing MW 2-3:15
+### Spring 2022
+-BSSD 4150/5150 Game Development TR 9:30-10:45
+-BSSD 3350/5350 ST: Generative Art TR 11-12:15
+-BSSD 3410/5410 Applied Algorithms & Architecture TR 12:30-1:45
+-BSSD 4340 Practicum II 2:00-3:15
+-BSSD 6970 Embedded Systems MW 11-12:15
+-BSSD 3520/5520 JavaScript MW 12:30-1:45
+
+All courses offered online via zoom or in person in Albuquerque, NM.
