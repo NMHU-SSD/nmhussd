@@ -8,6 +8,7 @@
 - [Apply Now](https://apply.nmhu.edu/apply/)
 - [Tuition and Fees](https://www.nmhu.edu/office-of-the-registrar/tuition-and-fees/)
 - [Financial Aid Info](https://www.nmhu.edu/financial-aid/financial-aid-resources/)
+- [Scholarship Page] (https://nmhuscholarships.awardspring.com/)
 
 For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto:lajohnson@nmhu.edu)
 
