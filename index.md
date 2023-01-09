@@ -20,7 +20,7 @@ For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto
 - MART 4190/5190 Design For Emerging Interfaces TR 11-12:50pm
 - BSSD 3410/5410 Algorithms TR 9:30-10:45am
 - BSSD 3650/5650 Patterns TR 11-12:15pm
-- BSSD 4250/5250 Advanced Mobile Apps (java/kotlin) TR 12:30-3:15pm
+- BSSD 4250/5250 Advanced Mobile Apps (java/kotlin) TR 12:30-1:45pm
 - BSSD 4340/6340 Practicum II TR 2-3:15pm
 
 
