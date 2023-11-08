@@ -15,13 +15,13 @@ For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto
 
 ## Courses
 
-### Fall 2023
-- BSSD 3520/5520 Javascript MW 10-11:15am
-- BSSD 4540/5540 Data Visualization MW 11:30-12:45pm
-- BSSD 4560/5560 Generative Art TR 9:30-10:45am
-- BSSD 4350/5350 ST: Agile Methodologies and Practice TR 11-12:15pm
-- BSSD 6000 Principles of Software Design TR 12:30-1:45pm
-- BSSD 3340/5340 Practicum I TR 2-3:15pm
-
+### Spring 2024
+- BSSD 4470/5450 Ambient Computing MW 10-11:15 am
+- BSSD 6110 Embedded Systems MW 11:30-12:45 pm
+  
+- BSSD 3850/5850 Data Modeling TR 9:30-10:45 am
+- BSSD 4150/5150 Game Development TR 11-12:15 pm
+- BSSD 3350/5350 ST: Creative Prompting with AI TR 12:30-1:45 pm
+- BSSD 4340/6340 Practicum II TR 2-3:15 pm
 
 All courses offered online via zoom or in person in Albuquerque, NM.
