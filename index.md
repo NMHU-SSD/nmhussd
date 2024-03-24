@@ -14,6 +14,8 @@ For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto
 
 
 ## Courses
+All courses offered online via zoom or in person in Albuquerque, NM.
+
 
 ### Spring 2024
 - BSSD 4470/5450 Ambient Computing MW 10-11:15 am
@@ -24,4 +26,13 @@ For transferring to the undergraduate program, email [lajohnson@nmhu.edu](mailto
 - BSSD 3350/5350 ST: Creative Prompting with AI TR 12:30-1:45 pm
 - BSSD 4340/6340 Practicum II TR 2-3:15 pm
 
-All courses offered online via zoom or in person in Albuquerque, NM.
+### Fall 2024
+
+- BSSD 3520/5520 Javascript MW 11-12:15 pm
+- BSSD 4200/5200 Mobile Applications MW 12:30-1:45 pm
+
+- BSSD 3410/5410 Applied Algorithms & Architecture TR 9:30-10:45 am
+- BSSD 6000 Principles of SSD TR 11-12:15 pm
+- BSSD 4350/5350 ST: Digital Intelligence AI TR 12:30-1:45 pm
+- BSSD 4340/6340 Practicum I TR 2-3:15 pm
+
