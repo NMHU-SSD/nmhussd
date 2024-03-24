@@ -25,8 +25,8 @@ All courses offered online via zoom or in person in Albuquerque, NM.
 - BSSD 3350/5350 ST: Creative Prompting with AI TR 12:30-1:45 pm
 - BSSD 4340/6340 Practicum II TR 2-3:15 pm
 
-### Fall 2024
 
+### Fall 2024
 - BSSD 3520/5520 Javascript MW 11-12:15 pm
 - BSSD 4200/5200 Mobile Applications MW 12:30-1:45 pm
 - BSSD 3410/5410 Applied Algorithms & Architecture TR 9:30-10:45 am
